@@ -1,5 +1,5 @@
 # pi
-(for best results, execute directly in cmd)
+(for best results, execute directly in cmd)<br>
 Hilariously simple python implementation of the Wallis Sieve method to calculate π.
 Using the following equation:
 
